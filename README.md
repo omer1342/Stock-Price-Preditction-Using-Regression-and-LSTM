@@ -1,7 +1,7 @@
 # Stock-Price-Preditction-Using-Regression-and-LSTM
 ### Stock Market Value Prediction In Python Using Regression &amp; Classifiers and LSTM 
 
-*Omer Hen*
+*Final project for Hemda Computation Science Course 2020 - Machine Learning*
 
 This project focuses on the research and implementation of various regressors and classifier vs a neural network 
 algorithm such as an Long Short Term Memory (LSTM) on the topic of predicting stock market values. The subject matter is the performance and final 
